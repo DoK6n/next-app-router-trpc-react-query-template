@@ -13,7 +13,7 @@ const todos: Todo[] = [
   {
     id: 1,
     title: '따릉이로 출퇴근 하기',
-    done: false,
+    done: true,
   },
 ]
 
